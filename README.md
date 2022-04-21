@@ -1,4 +1,4 @@
-<h1 align="center">Hi :trollface:, I'm Arnaud</h1>
+<h1 align="center">Hi :raised_back_of_hand:, I'm Arnaud</h1>
 <h3 align="center">computer developer student 💻</h3>
 
 <p align="center">
