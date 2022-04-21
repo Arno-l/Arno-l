@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">computer developer student 💻</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Ruby and Javascript**
 
 - 📫 How to reach me **arnaud.lucciarini@gmail.com**
 
