@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arnaud</h1>
+<h1 align="center">Hi, :vulcan_salute: I'm Arnaud</h1>
 <h3 align="center">computer developer student 💻</h3>
 
 <p align="center">
