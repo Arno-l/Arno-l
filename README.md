@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">computer developer student 💻</h3>
-(https://user-images.githubusercontent.com/96723098/164461105-6c9ce469-6b00-4dc2-8043-587fc8df419a.gif)
 
+
+![giphy](https://user-images.githubusercontent.com/96723098/164461422-b01069ad-d610-408b-981c-32a2efcec97f.gif)
 
 
 - 🌱 I’m currently learning **Ruby and Javascript**
