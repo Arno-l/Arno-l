@@ -1,9 +1,7 @@
 <h1 align="center">Hi, 👋 I'm Arnaud</h1>
 <h3 align="center">computer developer student 💻</h3>
 
-<p align="center">
-<img src="" />
-</p>
+
 
 - 🌱 I’m currently learning **Ruby and Javascript**
 
