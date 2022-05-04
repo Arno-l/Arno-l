@@ -2,7 +2,7 @@
 <h3 align="center">computer developer student 💻</h3>
 
 <p align="center">
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114d4147af1c7a02c212f1bef31c45af71cd278fbf&rid=giphy.gif&ct=g" alt="animated" />
+<img src="https://media4.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?cid=ecf05e473p0181bunw76gtmng96uomk2ywnhlyr7739nigtw&rid=giphy.gif&ct=s" alt="animated" />
 </p>
 
 - 🌱 I’m currently learning **Ruby and Javascript**
