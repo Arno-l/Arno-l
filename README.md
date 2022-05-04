@@ -10,6 +10,7 @@
 - 📫 How to reach me **arnaud.lucciarini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
 <p align="left">
 </p>
 
