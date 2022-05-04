@@ -2,7 +2,7 @@
 <h3 align="center">computer developer student 💻</h3>
 
 <p align="center">
-<img src="https://c.tenor.com/Li7HobCHqa0AAAAi/trial.gif" alt="animated" />
+<img src="" />
 </p>
 
 - 🌱 I’m currently learning **Ruby and Javascript**
